@@ -3,4 +3,4 @@
 
 ![CSS | Efecto de imagen dentro de texto](https://raw.githubusercontent.com/falconmasters/imagen-detras-de-texto-css/master/img/thumb.png)
 
-Por: [FalconMasters](http://www.falconmasters.com)
+Por: Me gusto
